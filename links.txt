@@ -1,0 +1,14 @@
+http://www.pavouk.org/hw/fan/en_fan4wire.html
+
+https://forum.arduino.cc/t/controlling-a-delta-fan-model-bfb1012vh-7p03-with-potentiometer-in-arduino-uno-board/975643
+
+https://github.com/T-622/25KHz-Arduino-Fan-PWM-Control/blob/main/25KHz_PWM_UNO.ino
+
+
+[Arduino Fan Control using High Frequency 25kHz PWM // 4-Wire CPU Fans] https://www.youtube.com/watch?v=YBNEXWp-gf0
+
+
+[ST7567s] https://github.com/luetee/ST7567S_128X64_I2C/blob/main/ST7567S_128X64_I2C.ino
+
+
+[PID] https://github.com/br3ttb/Arduino-PID-Library/tree/master
